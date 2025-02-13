@@ -1,0 +1,19 @@
+{
+  "name": "fixtureFinder",
+  "version": "1.0.0",
+  "repository": "https://github.com/EmbeddedTester/US_FixtureFinder.git",
+  "author": "Eumann, Jan <jeumann@ebay.de>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "test": "node test.js",
+    "start": "node start.js"
+  },
+  "devDependencies": {
+    "handlebars": "^4.0.10",
+    "open": "^0.0.5",
+    "require-text": "^0.0.1",
+    "watch": "^1.0.2",
+    "write": "^1.0.3"
+  }
+}
